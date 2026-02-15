@@ -1,0 +1,40 @@
+En la clase aprendimos que Git es un sistema de control de versiones que permite guardar cambios en los proyectos y trabajar de manera organizada. Sirve para llevar un historial de modificaciones y colaborar con otras personas.
+
+También vimos qué es GitHub, una plataforma en línea donde se pueden almacenar repositorios (proyectos) creados con Git.
+Pasos básicos para subir archivos a GitHub:
+
+Crear un repositorio en GitHub.
+
+En la computadora, abrir la terminal en la carpeta del proyecto.
+
+Inicializar Git con:
+
+git init
+
+
+Agregar los archivos:
+
+git add .
+
+
+Guardar los cambios con un commit:
+
+git commit -m "Primer commit"
+
+
+Conectar el proyecto al repositorio de GitHub.
+
+Subir los archivos usando:
+
+git push
+
+
+También aprendimos conceptos importantes como:
+
+Repositorio: carpeta donde se guarda el proyecto.
+
+Commit: registro de cambios.
+
+Branch (rama): versión alternativa del proyecto.
+
+Push y Pull: subir y descargar cambios.

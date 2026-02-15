@@ -1,0 +1,25 @@
+En la clase aprendimos que los lenguajes de programación sirven para darle instrucciones a la computadora. Funcionan como un idioma entre la persona y la máquina. El programador escribe código siguiendo reglas específicas (sintaxis), y luego la computadora lo interpreta o lo ejecuta para realizar una acción.
+
+También vimos que algunos lenguajes, como JavaScript, se ejecutan directamente en el navegador web. Esto permite crear páginas interactivas.
+
+Después aprendimos a usar JSFiddle, que es una herramienta en línea para escribir y probar código sin necesidad de instalar programas. En JSFiddle:
+
+En la sección HTML se escribe la estructura de la página.
+
+En CSS se agregan estilos (colores, tamaños, diseño).
+
+En JavaScript se programa la funcionalidad.
+
+Al presionar “Run” se ejecuta el código y se ve el resultado.
+
+Finalmente, hicimos ejemplos básicos en JavaScript como:
+
+Mostrar mensajes en pantalla.
+
+Crear variables.
+
+Usar funciones simples.
+
+Responder a eventos como hacer clic en un botón.
+
+En conclusión, aprendimos cómo la computadora entiende el código y cómo empezar a programar en JavaScript usando una herramienta práctica en línea.
